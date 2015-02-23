@@ -95,12 +95,9 @@ p:hover{
     table{
        width: 1134px;
        margin: 0 auto;
-       thead th{
-    padding:15px;
-    color:#fff;
-    text-shadow:1px 1px 1px #568F23;
-    border:1px solid #93CE37;
-    border-bottom:3px solid #9ED929;
-    background-color:#9DD929;
+       padding: 1px green;
+       
+   
+  
        
     }  
