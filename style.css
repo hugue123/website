@@ -101,3 +101,34 @@ p:hover{
   
        
     }  
+.button {
+   border-top: 1px solid #96d1f8;
+   background: #8a2c2c;
+   background: -webkit-gradient(linear, left top, left bottom, from(#a371ad), to(#8a2c2c));
+   background: -webkit-linear-gradient(top, #a371ad, #8a2c2c);
+   background: -moz-linear-gradient(top, #a371ad, #8a2c2c);
+   background: -ms-linear-gradient(top, #a371ad, #8a2c2c);
+   background: -o-linear-gradient(top, #a371ad, #8a2c2c);
+   padding: 13.5px 27px;
+   -webkit-border-radius: 29px;
+   -moz-border-radius: 29px;
+   border-radius: 29px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 20px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #248a9c;
+   }
+.button:active {
+   border-top-color: #1c8fdb;
+   background: #1c8fdb;
+   }
